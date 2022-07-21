@@ -3,7 +3,7 @@
   "chain": "AITD",
   "icon": "aitd",
   "rpc": [
-    "https://http-testnet.aitd.io"
+    "http://http-testnet.aitd.io"
   ],
   "faucets": [
     "https://aitd-faucet-pre.aitdcoin.com/"
